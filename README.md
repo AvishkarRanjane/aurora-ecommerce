@@ -1,12 +1,15 @@
 # ✨ Aurora — Apple-Inspired E-Commerce Platform
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-ecommercewebsite--main--seven.vercel.app-0D6E5D?style=for-the-badge)](https://ecommercewebsite-main-seven.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-16.3.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.2-blue?style=for-the-badge&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-v13-black?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
-[![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-Production_Live-000000?style=for-the-badge&logo=vercel)](https://ecommercewebsite-main-seven.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+> **🚀 Live Website**: **[https://ecommercewebsite-main-seven.vercel.app](https://ecommercewebsite-main-seven.vercel.app)**
 
 An enterprise-grade, Amazon/Flipkart-scale e-commerce web platform engineered in an **Apple-inspired visual language** (frosted glassmorphism, continuous squircle curves, WCAG AAA high-contrast typography, and restrained physics-based micro-interactions).
 
