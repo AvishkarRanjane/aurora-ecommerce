@@ -1,7 +1,41 @@
 {
-  "name": "aurora-website",
-  "version": "0.1.0",
+  "name": "aurora-ecommerce",
+  "version": "1.0.0",
+  "description": "Aurora — An enterprise-grade, Apple-inspired e-commerce platform with multi-portal architecture (Buyer Store, Seller Central, Admin Console), frosted glassmorphism UI, and 46 fully functional pages built on Next.js 16.",
   "private": true,
+  "author": {
+    "name": "Avishkar Ranjane",
+    "url": "https://github.com/AvishkarRanjane"
+  },
+  "homepage": "https://ecommercewebsite-main-seven.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AvishkarRanjane/aurora-ecommerce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AvishkarRanjane/aurora-ecommerce/issues"
+  },
+  "keywords": [
+    "ecommerce",
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "glassmorphism",
+    "framer-motion",
+    "multi-portal",
+    "seller-dashboard",
+    "admin-console",
+    "aurora",
+    "indian-rupee",
+    "inr",
+    "apple-design",
+    "vercel"
+  ],
+  "engines": {
+    "node": ">=18.17.0",
+    "npm": ">=9.0.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -30,3 +64,4 @@
     "typescript": "^5"
   }
 }
+
